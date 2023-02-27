@@ -1,0 +1,15 @@
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\bin\Debug\net6.0\Codigos.exe
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\bin\Debug\net6.0\Codigos.deps.json
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\bin\Debug\net6.0\Codigos.runtimeconfig.json
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\bin\Debug\net6.0\Codigos.dll
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\bin\Debug\net6.0\Codigos.pdb
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\obj\Debug\net6.0\Codigos.csproj.AssemblyReference.cache
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\obj\Debug\net6.0\Codigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\obj\Debug\net6.0\Codigos.AssemblyInfoInputs.cache
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\obj\Debug\net6.0\Codigos.AssemblyInfo.cs
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\obj\Debug\net6.0\Codigos.csproj.CoreCompileInputs.cache
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\obj\Debug\net6.0\Codigos.dll
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\obj\Debug\net6.0\refint\Codigos.dll
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\obj\Debug\net6.0\Codigos.pdb
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\obj\Debug\net6.0\Codigos.genruntimeconfig.cache
+C:\Users\Ek Latino\source\repos\Codigos\Codigos\obj\Debug\net6.0\ref\Codigos.dll
